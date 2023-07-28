@@ -27,7 +27,7 @@
                 </ul>
             </li>
         </ul>
-        <h3>Work Experiance </h3>
+        <h3>Work Experience </h3>
         <table border="3">
             <thead>
                 <tr>
