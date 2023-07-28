@@ -6,10 +6,9 @@
         <table cellspacing = "20">
             <tr>
                 <td><img src="imgred-1684875184-modified.png" width="200" height="200" alt="Rediet profile picture"></td>
-                <td><h1>Rediet Muluken</h1 <P><em>20-years-old <strong><a
-                            href="https://www.linkedin.com/in/rediet-muluken-7ba144229/overlay/contact-info/">Software
-                            Developer.</a></strong></em></P>
-                <p>I am Deputy Manager of Romlina Academy. I love creating new things. </p></td>
+                <td><h1>Rediet Muluken</h1> 
+                <P><em>20-years-old <strong><a href="https://www.linkedin.com/in/rediet-muluken-7ba144229/overlay/contact-info/">Software Developer.</a></strong></em></P>
+                <p>I am Deputy Manager of Romlina Academy. I love creating new things. </p>
             </tr>
         </table>
         <hr size ="3">
