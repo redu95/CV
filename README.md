@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html> 
     <head>  
         <meta charset = "utf-8">
@@ -68,4 +68,4 @@
         <a href="My hobbies.html">My Hobbies</a>
         <a href="My contact.html">My Contact</a>
     </body>
-</html
+</html>
