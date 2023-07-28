@@ -1,7 +1,6 @@
 <html> 
     <head>  
         <meta charset = "utf-8">
-        <title>Rediet's Personal Site </title>
     </head>
     <body>
         <table cellspacing = "20">
@@ -10,7 +9,7 @@
                 <td><h1>Rediet Muluken</h1 <P><em>20-years-old <strong><a
                             href="https://www.linkedin.com/in/rediet-muluken-7ba144229/overlay/contact-info/">Software
                             Developer.</a></strong></em></P>
-                <p>I am Deputy Manager of Romlina Academy.I love creating new things. </p></td>
+                <p>I am Deputy Manager of Romlina Academy. I love creating new things. </p></td>
             </tr>
         </table>
         <hr size ="3">
