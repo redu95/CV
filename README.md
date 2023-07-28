@@ -1,4 +1,3 @@
-
 <html> 
     <head>  
         <meta charset = "utf-8">
@@ -14,8 +13,6 @@
                 <p>I am Deputy Manager of Romlina Academy.I love creating new things. </p></td>
             </tr>
         </table>
-
-        
         <hr size ="3">
         <h3>Education</h3>
         <ul>
@@ -46,7 +43,6 @@
                 </tr>
             </tbody>
             <tfooot>
-
             </tfooot>
         </table>
         <h3>Skills</h3>
