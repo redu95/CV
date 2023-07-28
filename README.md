@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html> 
     <head>  
         <meta charset = "utf-8">
@@ -39,8 +38,6 @@
                    <td>Deputy manager at Romlina Academy</td>
                 </tr>
             </tbody>
-            <tfooot>
-            </tfooot>
         </table>
         <h3>Skills</h3>
         <table>
