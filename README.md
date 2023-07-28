@@ -45,15 +45,15 @@
         <table>
             <tr>
                 <td>Project Management</td>
-                <td>&#11088 &#11088</td>
+                <td>⭐⭐</td>
                 <td>Leadership</td>
-                <td>&#11088 &#11088 &#11088</td>
+                <td>⭐⭐⭐</td>
             </tr>
             <tr>
                 <td>Team Working</td>
-                <td>&#11088 &#11088 &#11088 &#11088 </td>
+                <td> ⭐⭐⭐⭐</td>
                 <td>Photography</td>
-                <td>&#11088 &#11088 &#11088 &#11088 &#11088</td>
+                <td>⭐⭐⭐⭐⭐</td>
             </tr>
         </table>
         <hr>
