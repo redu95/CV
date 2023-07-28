@@ -9,6 +9,8 @@
                 <td><h1>Rediet Muluken</h1> 
                 <P><em>20-years-old <strong><a href="https://www.linkedin.com/in/rediet-muluken-7ba144229/overlay/contact-info/">Software Developer.</a></strong></em></P>
                 <p>I am Deputy Manager of Romlina Academy. I love creating new things.</p>
+            </tr>
+        </table>
         <hr size ="3">
         <h3>Education</h3>
         <ul>
