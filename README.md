@@ -1,11 +1,2 @@
-![Home Page](Screenshot 2023-10-03 013631.png)
-```
+![Home Page](Screenshot%202023-10-03%20013631.png)
 
-
-
-
-
-
-
-
-```
